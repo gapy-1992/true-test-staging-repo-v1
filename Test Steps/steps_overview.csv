@@ -1,0 +1,12 @@
+Flow ID,Test Steps,Flow Priority
+1,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_docs_intro --> navigate to Page_docs_intro
+step 3: Add visual checkpoint at Page_docs_intro",High
+2,"step 1: Navigate to Page_docs_setting-up-your-feed_filtering-content-feed
+step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_filtering-content-feed",Medium
+5,"step 1: Navigate to Page_docs_setting-up-your-feed_advanced-filtering-options
+step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_advanced-filtering-options",Low
+4,"step 1: Navigate to Page_docs_getting-started_browser-extension-installation
+step 2: Add visual checkpoint at Page_docs_getting-started_browser-extension-installation",Low
+3,"step 1: Navigate to Page_docs_getting-started_pwa
+step 2: Add visual checkpoint at Page_docs_getting-started_pwa",Low
